@@ -12,7 +12,6 @@ const userSchema = new Schema(
 
 const User = model("User", userSchema);
 
+// Game model{name, genre, ???}
 
-
-
-module.exports = User;
+module.exports = Game;
